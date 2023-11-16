@@ -1,2 +1,2 @@
 # RedesNeurais_MLP
-Classificação de um problema usando redes neurais
+Classificação de um dataset usando Redes Neurais do tipo MLP.
